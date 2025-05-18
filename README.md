@@ -3,6 +3,9 @@
 ## Topic 1 - Understanding Of Concepts & Basic Usage Of Git
 
 ### Task 1:
+Install Git on your machine. Preferably an client that allows to type commands rather than UI only option.
+
+### Task 2:
 Start by going to [learngitbranching](https://learngitbranching.js.org/) and learn the following concepts:
 * What is Git
 * What is a repository
@@ -10,7 +13,7 @@ Start by going to [learngitbranching](https://learngitbranching.js.org/) and lea
 * What is a branch
 * What is a commit
 
-### Task 2:
+### Task 3:
 By going through the concepts in _Task 1_ ensure you understand what the following commands do:
 * init
 * status
@@ -24,7 +27,7 @@ By going through the concepts in _Task 1_ ensure you understand what the followi
 * checkout
 * merge
 
-### Task 3:
+### Task 4:
 #### Practical Exercises
 1. Clone this repository onto your machine, edit the line below to replace 'XX' with the real time values, then commit and push the changes:
     ```
