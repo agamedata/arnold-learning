@@ -27,6 +27,7 @@ By going through the concepts in _Task 1_ ensure you understand what the followi
 * checkout
 * merge
 
+
 ### Task 4:
 #### Practical Exercises
 1. Clone this repository onto your machine, edit the line below to replace 'XX' with the real time values, then commit and push the changes:
