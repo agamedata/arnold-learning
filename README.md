@@ -1,5 +1,7 @@
 # arnold-learning
 
+NOTE: Edited with NotePad
+
 ## Topic 1 - Understanding Of Concepts & Basic Usage Of Git
 
 ### Task 1:
