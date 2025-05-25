@@ -1,6 +1,6 @@
 # arnold-learning
 
-NOTE: Edited with NotePad
+NOTE: Edited with VI
 
 ## Topic 1 - Understanding Of Concepts & Basic Usage Of Git
 
